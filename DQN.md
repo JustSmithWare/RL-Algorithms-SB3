@@ -1,6 +1,6 @@
 # Deep Q Network (DQN)
 
-![Actor-Critic Diagram](diagrams/A2C.png)
+![Actor-Critic Diagram](diagrams/DQN.png)
 
 # Introduction
 
